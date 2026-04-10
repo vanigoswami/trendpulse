@@ -1,0 +1,92 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,181,25,franze,2026-04-03 18:05:40,0.13736263736263737,True
+47561426,What Category Theory Teaches Us About DataFrames,technology,48,4,mchav,2026-04-03 18:05:40,0.08163265306122448,False
+47562455,The True Shape of Io's Steeple Mountain,technology,70,1,carlosjobim,2026-04-03 18:05:40,0.014084507042253521,False
+47618189,Tailscale's new macOS home,technology,487,239,tosh,2026-04-03 18:05:40,0.48975409836065575,True
+47573728,Intel Assured Supply Chain Product Brief,technology,10,1,aw-engineer,2026-04-03 18:05:40,0.09090909090909091,False
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,281,129,sedev,2026-04-03 18:05:40,0.4574468085106383,True
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,technology,67,5,01-_-,2026-04-03 18:05:40,0.07352941176470588,False
+47617376,OpenAI Acquires TBPN,technology,219,180,surprisetalk,2026-04-03 18:05:40,0.8181818181818182,True
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,443,334,mooreds,2026-04-03 18:05:40,0.7522522522522522,True
+47620933,Memo: A language that remembers only the last 12 lines of code,technology,54,28,notem,2026-04-03 18:05:40,0.509090909090909,False
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,525,110,AbuAssar,2026-04-03 18:05:40,0.20912547528517111,True
+47623101,A Rave Review of Superpowers (For Claude Code),technology,30,18,emschwartz,2026-04-03 18:05:40,0.5806451612903226,False
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,technology,144,45,jackson-mcd,2026-04-03 18:05:40,0.3103448275862069,False
+47611921,Significant raise of reports,technology,296,151,stratos123,2026-04-03 18:05:40,0.5084175084175084,True
+47621792,Post Mortem: axios NPM supply chain compromise,technology,100,61,Kyro38,2026-04-03 18:05:40,0.6039603960396039,False
+47615876,The case for zero-error horizons in trustworthy LLMs,technology,74,102,daigoba66,2026-04-03 18:05:40,1.36,False
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,technology,81,30,ronfriedhaber,2026-04-03 18:05:40,0.36585365853658536,False
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",technology,20,0,flakespancakes,2026-04-03 18:05:40,0.0,False
+47609694,Email obfuscation: What works in 2026?,technology,353,99,jaden,2026-04-03 18:05:40,0.2796610169491525,True
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,technology,27,4,j0rg3,2026-04-03 18:05:40,0.14285714285714285,False
+47557385,The revenge of the data scientist,technology,170,37,hamelsmu,2026-04-03 18:05:40,0.21637426900584794,True
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",technology,9,5,arttaboi,2026-04-03 18:05:40,0.5,False
+47610245,Things I Think I Think... Preferring Local OSS LLMs,technology,43,9,zdw,2026-04-03 18:05:40,0.20454545454545456,False
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,549,188,pretext,2026-04-03 18:05:40,0.3418181818181818,True
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,274,134,Growtika,2026-04-03 18:05:40,0.48727272727272725,True
+47618221,The Australian government has announced gambling advertising reforms,worldnews,122,91,gostsamo,2026-04-03 18:05:40,0.7398373983739838,False
+47620426,Amazon data center in Bahrain attacked by Iranian Revolutionary Guards,worldnews,24,3,topherPedersen,2026-04-03 18:05:40,0.12,False
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),worldnews,149,41,jkool702,2026-04-03 18:05:40,0.2733333333333333,False
+47577761,Fedware: Government apps that spy harder than the apps they ban,worldnews,680,278,speckx,2026-04-03 18:05:40,0.40822320117474303,True
+47613668,Show HN: Abject: the first self-aware object runtime,worldnews,9,2,mempko,2026-04-03 18:05:40,0.2,False
+47578572,Turning a MacBook into a touchscreen with $1 of hardware (2018),worldnews,407,230,HughParry,2026-04-03 18:05:40,0.5637254901960784,True
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,85,116,vrganj,2026-04-03 18:05:40,1.3488372093023255,False
+47620400,Iran attacks Oracle data center in Dubai,worldnews,12,5,topherPedersen,2026-04-03 18:05:40,0.38461538461538464,False
+47612035,UK Government unveils rules to end subscription traps,worldnews,25,6,_____k,2026-04-03 18:05:40,0.23076923076923078,False
+47585008,"7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",worldnews,61,14,adulion,2026-04-03 18:05:40,0.22580645161290322,False
+47557299,Hardware Image Compression,worldnews,73,15,luu,2026-04-03 18:05:40,0.20270270270270271,False
+47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],worldnews,35,1,latexr,2026-04-03 18:05:40,0.027777777777777776,False
+47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",worldnews,43,3,smartmic,2026-04-03 18:05:40,0.06818181818181818,False
+47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,worldnews,7,9,JasonDuke,2026-04-03 18:05:40,1.125,False
+47540833,Hold on to Your Hardware,worldnews,661,533,LucidLynx,2026-04-03 18:05:40,0.8051359516616314,True
+47618779,New Rowhammer attacks give complete control of machines running Nvidia GPUs,worldnews,7,1,int0x29,2026-04-03 18:05:40,0.125,False
+47568028,Coding agents could make free software matter again,worldnews,269,306,rogueleaderr,2026-04-03 18:05:40,1.1333333333333333,True
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,745,349,hkmaxpro,2026-04-03 18:05:40,0.467828418230563,True
+47620867,Proton Workspace: An encrypted suite for team collaboration,sports,25,3,teekert,2026-04-03 18:05:40,0.11538461538461539,False
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,73,25,simple10,2026-04-03 18:05:40,0.33783783783783783,False
+47562342,Digitizing photos from the 1998 Game Boy Camera,sports,68,15,rockbruno,2026-04-03 18:05:40,0.21739130434782608,False
+47575403,CodingFont: A game to help you pick a coding font,sports,491,236,nvahalik,2026-04-03 18:05:40,0.4796747967479675,True
+47607775,"""Special 301"" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",sports,7,0,Lammy,2026-04-03 18:05:40,0.0,False
+47556033,rpg.actor Game Jam,sports,80,6,Kye,2026-04-03 18:05:40,0.07407407407407407,False
+47624879,Switzerland hosts 'CERN of semiconductor research',science,25,5,teleforce,2026-04-03 18:05:40,0.19230769230769232,False
+47604155,SpaceX files to go public,science,392,563,nutjob2,2026-04-03 18:05:40,1.4325699745547074,True
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,39,6,ruevs,2026-04-03 18:05:40,0.15,False
+47578086,Vulnerability research is cooked,science,255,168,pedro84,2026-04-03 18:05:40,0.65625,True
+47572878,How-to guide: Commissioning a Sensor Physics R&D Lab,science,41,4,MagneLauritzen,2026-04-03 18:05:40,0.09523809523809523,False
+47588349,GitHub Monaspace Case Study,science,146,49,homebrewer,2026-04-03 18:05:40,0.3333333333333333,False
+47586614,Open source CAD in the browser (Solvespace),science,369,125,phkahler,2026-04-03 18:05:40,0.33783783783783783,True
+47548164,"Researchers find 3,500-year-old loom that reveals textile revolution",science,132,20,geox,2026-04-03 18:05:40,0.15037593984962405,False
+47620442,NASA: Artemis II Real time tracking with multiple views,science,10,0,ColinWright,2026-04-03 18:05:40,0.0,False
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-03 18:05:40,0.3076923076923077,False
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,92,16,AustinDev,2026-04-03 18:05:40,0.17204301075268819,False
+47564579,The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history,science,100,25,zdw,2026-04-03 18:05:40,0.24752475247524752,False
+47612775,The SpaceX IPO: retail investor notes,science,94,93,u1hcw9nx,2026-04-03 18:05:40,0.9789473684210527,False
+47617027,A forecast of the fair market value of SpaceX's businesses,science,98,192,ddp26,2026-04-03 18:05:40,1.9393939393939394,False
+47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2026-04-03 18:05:40,0.06060606060606061,False
+47570650,Stanford study reveals AI vision models invent images they never see,science,45,0,LionTurtle13,2026-04-03 18:05:40,0.0,False
+47546911,Capability-Based Security for Redox: Namespace and CWD as Capabilities,science,65,9,ejplatzer,2026-04-03 18:05:40,0.13636363636363635,False
+47624741,"Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",entertainment,306,121,madman_dev,2026-04-03 18:05:40,0.3941368078175896,True
+47625385,"H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",entertainment,27,14,phantomathkg,2026-04-03 18:05:40,0.5,False
+47560959,Show HN: Home Maker: Declare Your Dev Tools in a Makefile,entertainment,71,42,sthottingal,2026-04-03 18:05:40,0.5833333333333334,False
+47621438,Show HN: Made a little Artemis II tracker,entertainment,116,43,codingmoh,2026-04-03 18:05:40,0.36752136752136755,False
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,866,413,novaRom,2026-04-03 18:05:40,0.47635524798154555,True
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),entertainment,34,21,Realman78,2026-04-03 18:05:40,0.6,False
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,102,60,rdme,2026-04-03 18:05:40,0.5825242718446602,False
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,142,111,kasparnoor,2026-04-03 18:05:40,0.7762237762237763,False
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,entertainment,18,3,symisc_devel,2026-04-03 18:05:40,0.15789473684210525,False
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,62,4,nemoniac,2026-04-03 18:05:40,0.06349206349206349,False
+47621937,Show HN: A Minimal Basic Inspired by Brainfuck,entertainment,6,0,ADavison2560,2026-04-03 18:05:40,0.0,False
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),entertainment,199,83,wazHFsRy,2026-04-03 18:05:40,0.415,True
+47557921,Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs,entertainment,332,44,hauntsaninja,2026-04-03 18:05:40,0.13213213213213212,True
+47574871,"Show HN: Zerobox – Sandbox any command with file, network, credential controls",entertainment,138,92,afshinmeh,2026-04-03 18:05:40,0.6618705035971223,False
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,199,56,tjgreen,2026-04-03 18:05:40,0.28,True
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",entertainment,418,152,PrismML,2026-04-03 18:05:40,0.3627684964200477,True
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,entertainment,83,45,coolwulf,2026-04-03 18:05:40,0.5357142857142857,False
+47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,entertainment,68,25,jeditobe,2026-04-03 18:05:40,0.36231884057971014,False
+47622264,"Why OpenAI Decided to Buy 'TBPN,' Tech's Hottest News Show",entertainment,6,0,mudil,2026-04-03 18:05:40,0.0,False
+47566143,My MacBook keyboard is broken and it's insanely expensive to fix,entertainment,381,535,TobiasBerg,2026-04-03 18:05:40,1.4005235602094241,True
+47594804,Show HN: Claude Code rewritten as a bash script,entertainment,52,17,rpst,2026-04-03 18:05:40,0.32075471698113206,False
+47575417,Show HN: Coasts – Containerized Hosts for Agents,entertainment,98,39,jsunderland323,2026-04-03 18:05:40,0.3939393939393939,False
+47555035,"Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",entertainment,73,21,jeremyfa,2026-04-03 18:05:40,0.28378378378378377,False
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,entertainment,28,0,mooreds,2026-04-03 18:05:40,0.0,False
+47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,entertainment,16,8,arximughal,2026-04-03 18:05:40,0.47058823529411764,False
